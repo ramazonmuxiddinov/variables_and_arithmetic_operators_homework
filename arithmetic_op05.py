@@ -5,3 +5,8 @@
 # c o'zgaruvchisini yarating va unga 7 butun son qiymatini bering
 
 # total o'zgaruvchisini yarating va total = b + a%c ni hisoblang
+a=6
+b=4
+c=7
+total = b + a%c
+print(total)
